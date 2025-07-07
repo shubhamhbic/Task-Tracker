@@ -51,4 +51,5 @@ A simple and responsive task management application built with React. Users can 
 
 ## 🖼 Screenshots
 ![image alt](https://github.com/shubhamhbic/Task-Tracker/blob/b539bb0f0c4fdfffe9edd43f0402533fb27f620a/Screenshot%202025-07-07%20132002.png)
+![image alt](https://github.com/shubhamhbic/Task-Tracker/blob/2dfc018b9107ed18dfcb54e7fea0a0ce6d12a1dd/Screenshot%202025-07-07%20132130.png)
     
