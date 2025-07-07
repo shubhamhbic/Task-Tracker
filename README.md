@@ -1,77 +1,53 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App].
 
-## Available Scripts
+## Personal Task Tracker
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-# 📝 Personal Task Tracker
-
-A responsive React application that allows users to manage daily tasks — including adding, editing, completing, and deleting tasks — with data persistence using localStorage.
-
-## 📸 Demo
-
-> Coming soon — [Deploy this on Netlify or Vercel]
+## 📖 Description
+A simple and responsive task management application built with React. Users can log in with a username, add/edit/delete tasks, mark them as complete or pending, and filter tasks. All data is saved in the browser using localStorage.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Simple Login
-  - Enter username to access the app
-  - Stored using `localStorage`
-  - Logout button included
-
-- ✅ Task Management
-  - Add, edit, delete tasks
-  - Mark tasks as completed or pending
-  - Created time shown
-
-- ✅ Task Filtering
-  - View All, Completed, or Pending tasks
-  - Task counts for each category
-
-- ✅ Data Persistence
-  - All data stored in `LocalStorage`
-  - State maintained even after refresh
-
-- ✅ Responsive UI
-  - Custom styled login page
-  - Clean, mobile-friendly interface
+- 🔐 Simple login using username (stored in localStorage)
+- 📝 Add, edit, delete tasks
+- ✅ Mark tasks as completed or pending
+- 📂 Filter tasks by All / Completed / Pending
+- 💾 Persistent storage with localStorage
+- 📱 Responsive and user-friendly design
+- 🔓 Logout functionality
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Setup Instructions
 
-- [React.js](https://reactjs.org/)
-- React Hooks (`useState`, `useEffect`)
-- CSS (custom styling)
-- `localStorage` (custom utility module)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shubhamhbic/Task-Tracker.git
+   cd task-tracker
 
----
+## Install dependencies:
+    npm install
 
-## 📁 Folder Structure
+## Start the development server:
+    npm start
 
-```bash
-src/
-├── components/
-│   ├── Login.js
-│   ├── TaskForm.js
-│   ├── TaskItem.js
-│   ├── TaskList.js
-│   └── TaskFilter.js
-├── utils/
-│   └── localStorage.js
-├── styles/
-│   └── App.css
-├── App.js
-└── index.js
+##    Open in your browser:
+        http://localhost:3000
+
+## Technologies Used
+    ⚛️ React.js (with Hooks)
+
+    💾 localStorage (custom utility)
+
+    🎨 Custom CSS
+
+    🗂 React component architecture
+
+##   🔗 Live Demo
+    https://task-trackershubham.netlify.app/
+
+## 🖼 Screenshots
+    
