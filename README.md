@@ -50,4 +50,5 @@ A simple and responsive task management application built with React. Users can 
     https://task-trackershubham.netlify.app/
 
 ## 🖼 Screenshots
+https://github.com/shubhamhbic/Task-Tracker/blob/b539bb0f0c4fdfffe9edd43f0402533fb27f620a/Screenshot%202025-07-07%20132002.png
     
